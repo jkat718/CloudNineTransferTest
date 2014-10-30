@@ -1,6 +1,7 @@
 public class AnalyticalParagraphGenerator {
 
     public static void main(String[] args) {
+        System.out.println("Greetings from the cloud!");
         int quotes = 2;
         System.out.println("A: Thesis statement.\n");
         for (int i = 1; i <= quotes; i++) {
